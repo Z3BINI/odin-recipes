@@ -1,0 +1,42 @@
+* {
+    background-color: #9d6600;
+    color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+}
+
+h1, h2, h3 {
+    color: #ffd381;
+    font-size: 32px;
+}
+
+h1 {
+    font-size: 120px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+img {
+    border: 10px solid white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: auto;
+}
+
+a {
+    color: white;
+    text-align: center;
+    font-weight: 900;
+    display: block;
+    text-decoration: none;
+}
+
+ol {
+    list-style:decimal-leading-zero;
+}
+
+ul {
+    list-style: lower-alpha;
+}
